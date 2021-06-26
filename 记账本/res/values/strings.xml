@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">何玉的记账本</string>
+    <string name="editone">记一笔...</string>
+    <string name="month_out">本月支出</string>
+    <string name="month_in">本月收入</string>
+    <string name="budget">预算剩余</string>
+    <string name="readtable">查看图标分析</string>
+
+
+</resources>
