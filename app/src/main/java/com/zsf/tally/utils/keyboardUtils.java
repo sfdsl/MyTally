@@ -15,7 +15,9 @@ public class keyboardUtils {
     private  final Keyboard k1;
     private KeyboardView keyboardView;
     private EditText editText;
-     public interface OnEnsureListener{
+
+
+    public interface OnEnsureListener{
          public void onEnsure();
      }
       OnEnsureListener  OnEnsureListener;
