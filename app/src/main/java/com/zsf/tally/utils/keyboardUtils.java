@@ -16,10 +16,10 @@ public class keyboardUtils {
     private KeyboardView keyboardView;
     private EditText editText;
 
-
     public interface OnEnsureListener{
          public void onEnsure();
      }
+
       OnEnsureListener  OnEnsureListener;
 
     public void setOnEnsureListener(keyboardUtils.OnEnsureListener onEnsureListener) {
